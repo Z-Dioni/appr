@@ -29,6 +29,7 @@ function EtudiantList() {
                         <th>Noms</th>
                         <th>Prénom</th>
                         <th>Email</th>
+                        <th>Modifier</th>
                     </tr>
                 </thead>
 
