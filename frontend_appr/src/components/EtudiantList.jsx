@@ -26,7 +26,7 @@ function EtudiantList() {
                 <thead>
                     <tr>
                         <th>ID</th>
-                        <th>Nom</th>
+                        <th>Noms</th>
                         <th>Prénom</th>
                         <th>Email</th>
                     </tr>
